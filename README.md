@@ -17,6 +17,11 @@ Each folder represents a topic:
 - `Chapter-03` — Conditional Statements
 - `Chapter-04` — Loop Control statements 
 - `Chapter-05` — Functions and Recursion  
+- `Chapter-06` — Pointers  
+- `Chapter-07` — Arrays 
+- `Chapter-08` — Strings  
+- `Chapter-09` — Structures
+- `Chapter-10` — File I/O 
 
 ---
 
@@ -25,7 +30,6 @@ Each folder represents a topic:
 - Build problem-solving skills  
 - Practice clean, readable code  
 - Prepare for data structures and algorithms in C  
-
 ---
 
 ## ⚙️ How to Run
