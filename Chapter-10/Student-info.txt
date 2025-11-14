@@ -1,0 +1,5 @@
+Name =Sujal Mhetre
+Student-ID=7103
+CGPA=7.03
+Address=Near Swami samartha mandir,lingali road daund.
+
